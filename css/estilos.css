@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo{
+	border-radius:10%;
+
+	
+	}
+#header{
+/*	height:200px;*/
+/*	width:100%;*/
+	}
+#nav{
+/*	 height:125px;*/
+	 vertical-align:top;}
+#align-base{
+	height:100px;
+}
+button{
+	font-size:9px;
+	width:90%;
+/*	margin:0 10px 0 10px;*/
+  	padding:0 !important;
+/*	width:100px !important;*/
+	}
+@media (max-size:600px){
+	span{
+		display:none !important;
+		visibility:hidden;
+		}
+	}

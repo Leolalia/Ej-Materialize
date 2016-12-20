@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family:socialico;
+	src:url("Socialico.otf");
+	}
+.iconos{
+	font-family:socialico;
+	font-size:2em;
+	color:grey;
+	text-shadow:1px 1px 10px white;}
+#logo{
+	border-radius:10%;
+	width:125px;
+	}
+#header{
+	height:170px;
+/*	width:100%;*/
+	}
+#nav{
+	 height:125px;
+	 vertical-align:top;}
+#align-base{
+	height:100px;
+}
+a{
+	font-size:9px;	
+	}
+.alineado{
+	 padding-top:70px;
+	 margin-bottom:70px;}
+@media (max-width:600px){
+a{
+	width:1px;}	
+/*btn{
+	width:10px !important;
+	}*/
+#header{
+	height:71px !important;
+	margin:10px 0 1px 0;
+	}
+#nav{
+	height:65px;
+	 vertical-align:top;}
+.btn{
+	width: 30px !important;
+}
+#logo{
+	border-radius:10%;
+	min-width:70px;
+	}
+.alineado{
+	 padding-top:10px !important;}
+	 }

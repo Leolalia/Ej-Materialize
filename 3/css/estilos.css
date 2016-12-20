@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navega{
+	height:100px;}
+a{
+	font-size:9px;
+	}
+#boton{
+	margin:5px;
+	border-radius:5px}
+
+/*#logo{
+	border-radius:10%;
+	width:125px;
+	
+	}
+#header{
+	height:200px;
+	width:100%;
+	}
+#nav{
+	 height:125px;
+	 vertical-align:top;}
+#align-base{
+	height:100px;
+}
+a{
+	font-size:9px;
+	
+	}
+@media (max-width:600px){
+a{
+	width:1px;}	
+btn{
+	width:10px !important}	
+	}*/
